@@ -14,5 +14,6 @@ void loop() {
   digitalWrite(LED,LOW);
   delay(1000);
    Serial.println("hello world");
+   Serial.print("gjdftfygj");
   // put your main code here, to run repeatedly:
 }
